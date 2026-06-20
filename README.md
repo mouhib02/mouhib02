@@ -17,7 +17,7 @@
 ---
 
 ```txt
-~/profile
+~/mouhib02
 ```
 
 A public workspace for technical experiments around security, Linux systems, automation, and investigation.

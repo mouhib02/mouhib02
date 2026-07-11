@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:0d3320,100:64F4AC&height=200&section=header&text=mouhib02&fontSize=70&fontColor=e6fff5&fontAlignY=38&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:0d3320,100:64F4AC&height=200&section=header&text=MouhibMh&fontSize=70&fontColor=e6fff5&fontAlignY=38&animation=fadeIn" />
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1200&color=8892b0&center=true&vCenter=true&repeat=true&width=650&height=40&lines=security+tools+and+linux+experiments;building+small+tools+that+show+how+systems+behave;turning+experiments+into+visible+technical+proof" alt="Typing SVG" />
 <br><br>

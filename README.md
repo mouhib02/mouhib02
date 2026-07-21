@@ -1,9 +1,9 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:0d3320,100:64F4AC&height=200&section=header&text=MouhibMh&fontSize=70&fontColor=e6fff5&fontAlignY=38&animation=fadeIn" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1200&color=8892b0&center=true&vCenter=true&repeat=true&width=650&height=40&lines=security+tools+and+linux+experiments;building+small+tools+that+show+how+systems+behave;turning+experiments+into+visible+technical+proof" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=64F4AC&center=true&vCenter=true&repeat=true&width=650&height=40&lines=security+tools+and+linux+experiments;building+small+tools+that+show+how+systems+behave;turning+experiments+into+visible+technical+proof" alt="Typing SVG" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,react,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,react,ts,opencv&theme=dark" />
 </div>
 <br>
 ---
@@ -15,13 +15,13 @@
 <td width="50%" valign="top">
 <h3 align="center"><a href="https://github.com/mouhib02/AppSec-Prompt-Kit">AppSec Prompt Kit</a></h3>
 <p align="center">
-Local-first prompt library for reviewing web apps, APIs, auth flows, and business logic. Built with React and TypeScript.
+Local-first, static prompt library for structured AppSec reviews (APIs, auth, logic flaws). Zero backend, offline-capable. Built with React & TypeScript.
 </p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center"><a href="https://github.com/mouhib02/vidcii">vidcii</a></h3>
 <p align="center">
-Python CLI that plays video in the terminal and exports ASCII-styled MP4 files. Built with OpenCV.
+Python CLI that renders live video as terminal ASCII art with ANSI color, and exports HD ASCII-styled MP4 files. Built with OpenCV.
 </p>
 </td>
 </tr>
@@ -29,7 +29,7 @@ Python CLI that plays video in the terminal and exports ASCII-styled MP4 files. 
 <td colspan="2" valign="top">
 <h3 align="center"><a href="https://github.com/mouhib02/pcap-jpeg-extractor-to-video">PCAP JPEG Extractor</a></h3>
 <p align="center">
-Forensic utility that extracts JPEG frames from network traffic captures and rebuilds them into video evidence.
+Memory-only forensic utility that parses raw <code>.pcap</code> TCP streams, detects binary headers (<code>FFD8</code> to <code>FFD9</code>), and rebuilds JPEG frames into playable video evidence with zero disk I/O.
 </p>
 </td>
 </tr>
@@ -44,19 +44,19 @@ Forensic utility that extracts JPEG frames from network traffic captures and reb
 <tr>
 <td align="center" width="25%">
 <h3>Defensive Security</h3>
-<p>AppSec review workflows, script analysis, misconfiguration hunting, lab practice</p>
+<p>Structured AppSec reviews, auth & logic flaws, static workflow design, release readiness</p>
 </td>
 <td align="center" width="25%">
 <h3>Linux and CLI</h3>
-<p>Shell tools, process behavior, file inspection, single-purpose utilities</p>
+<p>Single-purpose shell utilities, terminal rendering pipelines, process tracing</p>
 </td>
 <td align="center" width="25%">
 <h3>Network Forensics</h3>
-<p>PCAP analysis, log timelines, artifact recovery, evidence rebuilding</p>
+<p>Raw TCP stream parsing, binary header extraction, PCAP artifact recovery</p>
 </td>
 <td align="center" width="25%">
 <h3>Automation Safety</h3>
-<p>API key handling, webhook risks, AI code risks, unsafe workflow review</p>
+<p>AI prompt boundaries, local-only data handling, secure automation workflows</p>
 </td>
 </tr>
 </table>
